@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, meu nome é Pedro 👋
 
-<!--
-**ToDDiNhOBR/ToDDiNhOBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End JavaScript Especializado em React | Engenheiro de Software
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Bacharel em Engenharia da Computação
+- 📕 Pós graduando em Engenharia de Software
+- 🙋🏽‍♂️ Fluente em **Inglês**
+- 🧘🏽‍♂️ Atualmente focado em:
+  
+  
+            
+   <img width="50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+            <img width="50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> 
+            <img width="50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  
+  #### Você também me encontra em:
+  <a href ="https://www.linkedin.com/in/pedro-paulo-v-resende/">
+  <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
