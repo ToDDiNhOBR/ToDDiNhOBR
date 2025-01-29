@@ -3,7 +3,7 @@
 Desenvolvedor Front-End JavaScript Especializado em React | Engenheiro de Software
 
 - 📚 Bacharel em Engenharia da Computação
-- 📕 Pós graduando em Engenharia de Software
+- 📕 Pós graduado em Engenharia de Software
 - 🙋🏽‍♂️ Fluente em **Inglês**
 - 🧘🏽‍♂️ Atualmente focado em:
   
